@@ -1,4 +1,4 @@
-region = "ap-south-1"
+region = "us-east-1"
 
 vpc_name = "deployment-vpc"
 vpc_cidr = "10.0.0.0/16"
@@ -6,7 +6,7 @@ vpc_cidr = "10.0.0.0/16"
 subnet_name = "deployment-subnet"
 subnet_cidr = "10.0.1.0/24"
 
-az = "ap-south-1a"
+az = "us-east-1"
 
 ecr_name = "devops-ecr-repo"
 
